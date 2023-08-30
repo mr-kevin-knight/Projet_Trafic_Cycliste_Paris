@@ -1,0 +1,6 @@
+ID_compteur,Adresse_compteur,Sens,ID_site,Adresse_site,NB_passage,Date_inst,mm_aaaa_comptage,Date_comptage,Heure_comptage,Jour_sem,ARDT,lat,lon,Mois,eval_meteo,Code_meteo,Temperature
+100003096-353242251,97 avenue Denfert Rochereau,SO-NE,100003096,avenue Denfert Rochereau,8.0,2012-02-22,2022-06,2022-06-01,01:00,Wednesday,75014,48.83504,2.33314,6,météo favorable,4,16.275000000000027
+100003096-353242251,97 avenue Denfert Rochereau,SO-NE,100003096,avenue Denfert Rochereau,27.0,2012-02-22,2022-06,2022-06-01,06:00,Wednesday,75014,48.83504,2.33314,6,météo favorable,4,16.275000000000027
+100003096-353242251,97 avenue Denfert Rochereau,SO-NE,100003096,avenue Denfert Rochereau,199.0,2012-02-22,2022-06,2022-06-01,09:00,Wednesday,75014,48.83504,2.33314,6,météo favorable,4,16.275000000000027
+100003096-353242251,97 avenue Denfert Rochereau,SO-NE,100003096,avenue Denfert Rochereau,74.0,2012-02-22,2022-06,2022-06-01,12:00,Wednesday,75014,48.83504,2.33314,6,météo favorable,4,16.275000000000027
+100003096-353242251,97 avenue Denfert Rochereau,SO-NE,100003096,avenue Denfert Rochereau,50.0,2012-02-22,2022-06,2022-06-01,14:00,Wednesday,75014,48.83504,2.33314,6,météo favorable,4,16.275000000000027
