@@ -29,14 +29,14 @@ page = st.sidebar.radio("", pages)
 #informations
 st.sidebar.info(
 
-"Laurent Benhamou "
-"\n\n"
-#"[linkedIn](), "
 "Kevin Chevalier "
 "\n\n"
-#"[linkedIn](), "
+"[linkedIn](https://www.linkedin.com/in/kevin-chevalier-ck), "
+"Laurent Benhamou "
+"\n\n"
+"[linkedIn](https://www.linkedin.com/in/laurent-benhamou-4588331/), "
 "Estelle Therin "
-#"[linkedIn]()"
+"[linkedIn](https://www.linkedin.com/in/estelle-therin/)"
 "\n\n"
 "Bootcamp Data Analyst Juin 2023, "
 "[DataScientest](https://datascientest.com/)"
