@@ -520,7 +520,7 @@ if page == pages[3]:
     elif selected_option == "janvier 2023":
         image = Image.open("trafic_janvier.png")
         st.image(image)
-    elif selected_option == "fevrier 2023":
+    elif selected_option == "février 2023":
         image = Image.open("trafic_fevrier.png")
         st.image(image)
     elif selected_option == "mars 2023":
