@@ -1,4 +1,6 @@
 # Projet_Trafic_Cycliste_Paris
+La Ville de Paris déploie depuis plusieurs années des compteurs à vélo permanents pour évaluer le développement de la pratique cycliste.
+Ce projet a pour objectif d’effectuer une analyse des données récoltées par ces compteurs vélo.
 
 [You can reach the application here.](https://projettraficcyclisteparis-fh7mungtmierybiebv6kxw.streamlit.app/)
 
