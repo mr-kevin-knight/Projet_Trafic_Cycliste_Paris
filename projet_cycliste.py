@@ -29,9 +29,8 @@ page = st.sidebar.radio("", pages)
 #informations
 st.sidebar.info(
 
-"Kevin Chevalier "
+"[Kevin Chevalier ](https://www.linkedin.com/in/kevin-chevalier-ck)"
 "\n\n"
-"[linkedIn](https://www.linkedin.com/in/kevin-chevalier-ck), "
 "Laurent Benhamou "
 "\n\n"
 "[linkedIn](https://www.linkedin.com/in/laurent-benhamou-4588331/), "
