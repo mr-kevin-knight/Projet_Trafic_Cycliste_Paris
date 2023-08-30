@@ -31,11 +31,9 @@ st.sidebar.info(
 
 "[Kevin Chevalier ](https://www.linkedin.com/in/kevin-chevalier-ck)"
 "\n\n"
-"Laurent Benhamou "
+"[Laurent Benhamou ](https://www.linkedin.com/in/laurent-benhamou-4588331/)"
 "\n\n"
-"[linkedIn](https://www.linkedin.com/in/laurent-benhamou-4588331/), "
-"Estelle Therin "
-"[linkedIn](https://www.linkedin.com/in/estelle-therin/)"
+"[Estelle Therin ](https://www.linkedin.com/in/estelle-therin/)"
 "\n\n"
 "Bootcamp Data Analyst Juin 2023, "
 "[DataScientest](https://datascientest.com/)"
